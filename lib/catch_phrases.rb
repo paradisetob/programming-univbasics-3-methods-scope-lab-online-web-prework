@@ -3,7 +3,7 @@ def Mario
 er Castle!'
 puts  "It's me, Mario!"
 end
- end369
+ end
 def toadstool
   puts status
 end
