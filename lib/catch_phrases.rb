@@ -1,5 +1,5 @@
 def Mario
-puts  pharse= "It's me, Mario!"
+puts  "It's me, Mario!"
 end
 
 def toadstool
